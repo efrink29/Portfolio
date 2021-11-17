@@ -1,0 +1,23 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "SodaBootCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrink29/SodaBootcamp.git"
+  },
+  "author": "Ethan Frink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efrink29/SodaBootcamp/issues"
+  },
+  "homepage": "https://github.com/efrink29/SodaBootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  },
+  "devDependencies": {}
+}

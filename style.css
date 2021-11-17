@@ -1,0 +1,94 @@
+.background {
+    background-color: #282c34;
+}
+
+#intro_page_title {
+    color: #40aaf2;
+
+}
+
+.page_title {
+    font-size: 120px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Ariel Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#projects_page_title {
+    color: white;
+}
+
+#cursor {
+    color: #f8f8f0;
+    font-size: 110px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    vertical-align: text-top;
+}
+
+.center {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+#profile_pic {
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+
+#ASU {
+    color: #e70042;
+    font-weight: bolder;
+}
+
+.summary-content {
+    text-align: center;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.toggle-button {
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    background: white;
+    border-radius: 6px;
+    transition: all 0.3s ease 0s;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.toggle-button:hover {
+    background: rgb(105, 105, 105);
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+#projects_toggle {
+    border: 4px solid #8c1d40;
+}
+
+#experience_toggle {
+    border: 4px solid #40aaf2;
+}
+
+#projects_toggle:hover {
+    color: #8c1d40;
+    border-color:rgb(105, 105, 105);
+    transition: all 0.3s ease 0s;
+}
+#experience_toggle:hover {
+    color: #40aaf2;
+    border-color:rgb(105, 105, 105);
+    transition: all 0.3s ease 0s;
+}
